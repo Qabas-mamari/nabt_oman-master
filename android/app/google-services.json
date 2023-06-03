@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "953607069917",
+    "project_id": "mobileproject-b7b45",
+    "storage_bucket": "mobileproject-b7b45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953607069917:android:4f1ec1eff941154395fb34",
+        "android_client_info": {
+          "package_name": "com.example.nabt_oman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953607069917-c4blrl7nvvbn5usd6pvpk8mr42kogj1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIMVOURuolxuwlt_jsdH1be9EtAE7o6Fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953607069917-c4blrl7nvvbn5usd6pvpk8mr42kogj1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
