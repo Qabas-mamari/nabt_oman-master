@@ -82,6 +82,7 @@ class _BottomPartState extends State<BottomPart> {
       ),
     );
   }
+
   void _onTabFunction(int value) {
     setState(() {
       _selectedIndex = value;
