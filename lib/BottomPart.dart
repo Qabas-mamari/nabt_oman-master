@@ -18,11 +18,6 @@ class _BottomPartState extends State<BottomPart> {
   int _selectedIndex = 0;
   late List<Widget> _widgetOptions;
 
-  // static final List<Widget> _widgetOptions = <Widget>[
-  //   // const Text("Text"),
-  //   const IndexPage(),
-  //   const MyImageList(),
-  // ];
   @override
   void initState(){
     super.initState();
