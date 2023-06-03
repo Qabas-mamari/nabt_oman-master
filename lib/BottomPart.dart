@@ -13,7 +13,6 @@ class BottomPart extends StatefulWidget {
   @override
   State<BottomPart> createState() => _BottomPartState();
 }
-
 class _BottomPartState extends State<BottomPart> {
   int _selectedIndex = 0;
   late List<Widget> _widgetOptions;
@@ -82,6 +81,7 @@ class _BottomPartState extends State<BottomPart> {
       ),
     );
   }
+
   void _onTabFunction(int value) {
     setState(() {
       _selectedIndex = value;
