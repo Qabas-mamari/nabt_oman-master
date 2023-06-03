@@ -9,7 +9,6 @@ import 'Screens/MyImageList.dart';
 
 class BottomPart extends StatefulWidget {
   final Function(Plant, bool) onUpdatePlant;
-
   const BottomPart({Key? key, required this.onUpdatePlant}) : super(key: key);
 
   @override
