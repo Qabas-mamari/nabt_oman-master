@@ -168,8 +168,6 @@ class AppPlantDecoration extends StatelessWidget {
                   right: 50,
                   child: _buildRatingBar(),
                 ),
-
-
                 
               ],
                 ),
